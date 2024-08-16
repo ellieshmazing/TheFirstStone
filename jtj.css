@@ -67,6 +67,7 @@
   text-align: center;
   font-weight: bold;
   font-size: 28px;
+  font-size: 3em;
   font-family: "Franklin Gothic Medium";
 }
 
@@ -93,6 +94,7 @@
   color: rgb(0, 0, 0);
   font-weight: lighter;
   font-size: 20px;
+  font-size: 1.8m;
   font-family: "Franklin Gothic Medium";
 }
 
@@ -118,12 +120,14 @@
 #scorenum {
   color: rgb(0, 0, 0);
   font-size: 90px;
+  font-size: 8em;
   font-family: "Franklin Gothic Medium";
 }
 
 #scoretext {
   color: rgb(0, 0, 0);
   font-size: 50px;
+  font-size: 4em;
   font-family: "Franklin Gothic Medium";
 }
 
@@ -136,8 +140,8 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  width: 10vw;
-  height: 8vh;
+  width: 4em;
+  height: 3em;
   background-color: rgb(235, 235, 235);
   color: rgb(0, 0, 0);
   align-items: center;
@@ -145,12 +149,13 @@
   font-weight: bold;
   border-radius: 4.5vh;
   font-size: 28px;
+  font-size: 3em;
   font-family: "Franklin Gothic Medium";
   margin: 3.5vw;
 }
 
 .judgement {
-  width: 12vw;
+  width: 12vh;
   height: 12vh;
   color: rgb(255, 255, 255);
 }

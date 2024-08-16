@@ -15,8 +15,8 @@ $(document).ready(function () {
   $("#newgame").click(function () {
     $(this).animate(
       {
-        width: "9.5vw",
-        height: "7.5vh",
+        width: "3.75em",
+        height: "2.75em",
         margin: "3.75vw",
         "border-radius": "4.75vh",
       },
@@ -24,8 +24,8 @@ $(document).ready(function () {
     );
     $(this).animate(
       {
-        width: "10vw",
-        height: "8vh",
+        width: "4em",
+        height: "3em",
         margin: "3.5vw",
         "border-radius": "4.5vh",
       },
@@ -41,7 +41,7 @@ $(document).ready(function () {
     //Shrink animation to indicate click
     $(this).animate(
       {
-        width: "11.5vw",
+        width: "11.5vh",
         height: "11.5vh",
         margin: "3.75vw",
         "border-radius": "4.75vh",
@@ -50,7 +50,7 @@ $(document).ready(function () {
     );
     $(this).animate(
       {
-        width: "12vw",
+        width: "12vh",
         height: "12vh",
         margin: "3.5vw",
         "border-radius": "4.5vh",
